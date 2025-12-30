@@ -51,7 +51,7 @@ addTask.addEventListener('click',()=>{
   }
 
   function saveTask(){
-    localStorage.setItem("tasks",JSON.    stringify(tasks))
+    localStorage.setItem("tasks",JSON.stringify(tasks))
   }
 
 
